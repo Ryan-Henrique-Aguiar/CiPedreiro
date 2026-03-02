@@ -1,0 +1,27 @@
+
+/* Definições principais (light theme por padrão) */
+:root {
+  /* Cores principais */
+  --primary:    #ff8f0f;   
+  --primary-dark: #303f9f;
+  --primary-light: #7986cb;
+
+  --accent:     #ff4081;     /* pink accent */
+  --accent-dark: #f50057;
+
+  /* Cores neutras */
+  --background: #ffffff;
+  --backgorundgray: #EEEEEE;
+  --text:       #333333;
+  --text-secondary: #666666;
+  --border:     #e0e0e0;
+
+  /* Estados */
+  --success:    #4caf50;
+  --warning:    #ff9800;
+  --error:      #f44336;
+  --info:       #2196f3;
+
+  /* Outras úteis */
+  --shadow:     0 4px 12px rgba(0, 0, 0, 0.08);
+}
